@@ -19,3 +19,7 @@ Every film and every kit needs a `citation`: where the numbers came from, such a
 - `kits`: `id`, `name`, `fastest` and `slowest` in seconds (0.001 is 1/1000), `bulb`, optional `widest` and `smallest` f-numbers, optional `shutterSteps` (`full`, `half` or `third`, full when left out), optional `mount` named as Lensfun names it (`Canon FD`, `Nikon F`, `Olympus OM`, `Pentax K`, `Leica M`) so lens search shows lenses that fit, `citation`, optional `author`.
 
 Questions: hello@anjafio.com
+
+## Lens list
+
+The lens list Meterology uses is in [lenses/](lenses/), adapted from the Lensfun database and shared under CC BY-SA 3.0.

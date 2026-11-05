@@ -1,0 +1,395 @@
+{
+ "revision": "web",
+ "lenses": [
+  {
+   "maker": "Pentax",
+   "model": "SMC Pentax 67 45mm f/4",
+   "mounts": [
+    "Pentax 67"
+   ],
+   "widest": 4,
+   "smallest": 22,
+   "from": "web",
+   "source": "https://web.mit.edu/dennis/www/pentax67/lens-info.html",
+   "focal": [
+    45,
+    45
+   ]
+  },
+  {
+   "maker": "Pentax",
+   "model": "SMC Pentax 67 55mm f/4",
+   "mounts": [
+    "Pentax 67"
+   ],
+   "widest": 4,
+   "smallest": 22,
+   "from": "web",
+   "source": "https://web.mit.edu/dennis/www/pentax67/lens-info.html",
+   "focal": [
+    55,
+    55
+   ]
+  },
+  {
+   "maker": "Pentax",
+   "model": "SMC Pentax 67 75mm f/4.5",
+   "mounts": [
+    "Pentax 67"
+   ],
+   "widest": 4.5,
+   "smallest": 22,
+   "from": "web",
+   "source": "https://web.mit.edu/dennis/www/pentax67/lens-info.html",
+   "focal": [
+    75,
+    75
+   ]
+  },
+  {
+   "maker": "Pentax",
+   "model": "SMC Pentax 67 90mm f/2.8",
+   "mounts": [
+    "Pentax 67"
+   ],
+   "widest": 2.8,
+   "smallest": 22,
+   "from": "web",
+   "source": "https://web.mit.edu/dennis/www/pentax67/lens-info.html",
+   "focal": [
+    90,
+    90
+   ]
+  },
+  {
+   "maker": "Pentax",
+   "model": "SMC Pentax 67 105mm f/2.4",
+   "mounts": [
+    "Pentax 67"
+   ],
+   "widest": 2.4,
+   "smallest": 22,
+   "from": "web",
+   "source": "https://web.mit.edu/dennis/www/pentax67/lens-info.html",
+   "focal": [
+    105,
+    105
+   ]
+  },
+  {
+   "maker": "Pentax",
+   "model": "SMC Pentax 67 165mm f/2.8",
+   "mounts": [
+    "Pentax 67"
+   ],
+   "widest": 2.8,
+   "smallest": 22,
+   "from": "web",
+   "source": "https://web.mit.edu/dennis/www/pentax67/lens-info.html",
+   "focal": [
+    165,
+    165
+   ]
+  },
+  {
+   "maker": "Pentax",
+   "model": "SMC Pentax 67 200mm f/4",
+   "mounts": [
+    "Pentax 67"
+   ],
+   "widest": 4,
+   "smallest": 32,
+   "from": "web",
+   "source": "https://web.mit.edu/dennis/www/pentax67/lens-info.html",
+   "focal": [
+    200,
+    200
+   ]
+  },
+  {
+   "maker": "Carl Zeiss",
+   "model": "Distagon 40mm f/4 CF FLE",
+   "mounts": [
+    "Hasselblad V"
+   ],
+   "widest": 4,
+   "smallest": 22,
+   "from": "web",
+   "source": "https://shuttermuse.com/hasselblad-v-system-lenses-and-specifications/",
+   "focal": [
+    40,
+    40
+   ]
+  },
+  {
+   "maker": "Carl Zeiss",
+   "model": "Distagon 50mm f/4 CF",
+   "mounts": [
+    "Hasselblad V"
+   ],
+   "widest": 4,
+   "smallest": 22,
+   "from": "web",
+   "source": "https://shuttermuse.com/hasselblad-v-system-lenses-and-specifications/",
+   "focal": [
+    50,
+    50
+   ]
+  },
+  {
+   "maker": "Carl Zeiss",
+   "model": "Distagon 60mm f/3.5 CF",
+   "mounts": [
+    "Hasselblad V"
+   ],
+   "widest": 3.5,
+   "smallest": 22,
+   "from": "web",
+   "source": "https://shuttermuse.com/hasselblad-v-system-lenses-and-specifications/",
+   "focal": [
+    60,
+    60
+   ]
+  },
+  {
+   "maker": "Carl Zeiss",
+   "model": "Planar 80mm f/2.8 CF",
+   "mounts": [
+    "Hasselblad V"
+   ],
+   "widest": 2.8,
+   "smallest": 22,
+   "from": "web",
+   "source": "https://shuttermuse.com/hasselblad-v-system-lenses-and-specifications/",
+   "focal": [
+    80,
+    80
+   ]
+  },
+  {
+   "maker": "Carl Zeiss",
+   "model": "Planar 100mm f/3.5 CF",
+   "mounts": [
+    "Hasselblad V"
+   ],
+   "widest": 3.5,
+   "smallest": 22,
+   "from": "web",
+   "source": "https://shuttermuse.com/hasselblad-v-system-lenses-and-specifications/",
+   "focal": [
+    100,
+    100
+   ]
+  },
+  {
+   "maker": "Carl Zeiss",
+   "model": "Makro-Planar 120mm f/4 CF",
+   "mounts": [
+    "Hasselblad V"
+   ],
+   "widest": 4,
+   "smallest": 32,
+   "from": "web",
+   "source": "https://shuttermuse.com/hasselblad-v-system-lenses-and-specifications/",
+   "focal": [
+    120,
+    120
+   ]
+  },
+  {
+   "maker": "Carl Zeiss",
+   "model": "Sonnar 150mm f/4 CF",
+   "mounts": [
+    "Hasselblad V"
+   ],
+   "widest": 4,
+   "smallest": 32,
+   "from": "web",
+   "source": "https://shuttermuse.com/hasselblad-v-system-lenses-and-specifications/",
+   "focal": [
+    150,
+    150
+   ]
+  },
+  {
+   "maker": "Carl Zeiss",
+   "model": "Sonnar 250mm f/5.6 CF",
+   "mounts": [
+    "Hasselblad V"
+   ],
+   "widest": 5.6,
+   "smallest": 45,
+   "from": "web",
+   "source": "https://shuttermuse.com/hasselblad-v-system-lenses-and-specifications/",
+   "focal": [
+    250,
+    250
+   ]
+  },
+  {
+   "maker": "Mamiya",
+   "model": "Mamiya-Sekor C 37mm f/4.5 Fisheye",
+   "mounts": [
+    "Mamiya RB67"
+   ],
+   "widest": 4.5,
+   "smallest": 32,
+   "from": "web",
+   "source": "https://www.pacificrimcamera.com/rl/01417/01417.pdf",
+   "focal": [
+    37,
+    37
+   ]
+  },
+  {
+   "maker": "Mamiya",
+   "model": "Mamiya-Sekor C 50mm f/4.5",
+   "mounts": [
+    "Mamiya RB67"
+   ],
+   "widest": 4.5,
+   "smallest": 32,
+   "from": "web",
+   "source": "https://www.pacificrimcamera.com/rl/01417/01417.pdf",
+   "focal": [
+    50,
+    50
+   ]
+  },
+  {
+   "maker": "Mamiya",
+   "model": "Mamiya-Sekor C 65mm f/4.5",
+   "mounts": [
+    "Mamiya RB67"
+   ],
+   "widest": 4.5,
+   "smallest": 32,
+   "from": "web",
+   "source": "https://www.pacificrimcamera.com/rl/01417/01417.pdf",
+   "focal": [
+    65,
+    65
+   ]
+  },
+  {
+   "maker": "Mamiya",
+   "model": "Mamiya-Sekor C 90mm f/3.8",
+   "mounts": [
+    "Mamiya RB67"
+   ],
+   "widest": 3.8,
+   "smallest": 32,
+   "from": "web",
+   "source": "https://www.pacificrimcamera.com/rl/01417/01417.pdf",
+   "focal": [
+    90,
+    90
+   ]
+  },
+  {
+   "maker": "Mamiya",
+   "model": "Mamiya-Sekor C 127mm f/3.8",
+   "mounts": [
+    "Mamiya RB67"
+   ],
+   "widest": 3.8,
+   "smallest": 32,
+   "from": "web",
+   "source": "https://www.pacificrimcamera.com/rl/01417/01417.pdf",
+   "focal": [
+    127,
+    127
+   ]
+  },
+  {
+   "maker": "Mamiya",
+   "model": "Mamiya-Sekor C 140mm f/4.5 Macro",
+   "mounts": [
+    "Mamiya RB67"
+   ],
+   "widest": 4.5,
+   "smallest": 32,
+   "from": "web",
+   "source": "https://www.pacificrimcamera.com/rl/01417/01417.pdf",
+   "focal": [
+    140,
+    140
+   ]
+  },
+  {
+   "maker": "Mamiya",
+   "model": "Mamiya-Sekor C 180mm f/4.5",
+   "mounts": [
+    "Mamiya RB67"
+   ],
+   "widest": 4.5,
+   "smallest": 45,
+   "from": "web",
+   "source": "https://www.pacificrimcamera.com/rl/01417/01417.pdf",
+   "focal": [
+    180,
+    180
+   ]
+  },
+  {
+   "maker": "Mamiya",
+   "model": "Mamiya-Sekor 250mm f/4.5",
+   "mounts": [
+    "Mamiya RB67"
+   ],
+   "widest": 4.5,
+   "smallest": 45,
+   "from": "web",
+   "source": "https://www.pacificrimcamera.com/rl/01417/01417.pdf",
+   "focal": [
+    250,
+    250
+   ]
+  },
+  {
+   "maker": "Mamiya",
+   "model": "Mamiya-Sekor 360mm f/6.3",
+   "mounts": [
+    "Mamiya RB67"
+   ],
+   "widest": 6.3,
+   "smallest": 45,
+   "from": "web",
+   "source": "https://www.pacificrimcamera.com/rl/01417/01417.pdf",
+   "focal": [
+    360,
+    360
+   ]
+  },
+  {
+   "maker": "Mamiya",
+   "model": "Mamiya-Sekor 500mm f/8",
+   "mounts": [
+    "Mamiya RB67"
+   ],
+   "widest": 8,
+   "smallest": 32,
+   "from": "web",
+   "source": "https://www.pacificrimcamera.com/rl/01417/01417.pdf",
+   "focal": [
+    500,
+    500
+   ]
+  },
+  {
+   "maker": "Mamiya",
+   "model": "Mamiya-Sekor K/L 127mm f/3.5 L",
+   "mounts": [
+    "Mamiya RB67"
+   ],
+   "widest": 3.5,
+   "smallest": 32,
+   "from": "web",
+   "source": "https://www.pacificrimcamera.com/rl/00223/00223.pdf",
+   "focal": [
+    127,
+    127
+   ]
+  }
+ ]
+}
