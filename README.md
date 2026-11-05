@@ -15,7 +15,7 @@ Every film and every kit needs a `citation`: where the numbers came from, such a
 
 ## What a pack holds
 
-- `films`: `id`, `name`, `manufacturer`, `iso`, `kind` (`blackAndWhiteNegative`, `colorNegative` or `slide`), `reciprocity` (`table` with `points` of `[metered, corrected]` seconds, `schwarzschild` with `p`, or `none`), `citation`, optional `author`.
-- `kits`: `id`, `name`, `fastest` and `slowest` in seconds (0.001 is 1/1000), `bulb`, optional `widest` and `smallest` f-numbers, optional `mount` named as Lensfun names it (`Canon FD`, `Nikon F`, `Olympus OM`, `Pentax K`, `Leica M`) so lens search shows lenses that fit, `citation`, optional `author`.
+- `films`: `id`, `name`, `manufacturer`, `iso`, `kind` (`blackAndWhiteNegative`, `colorNegative` or `slide`), `reciprocity` (`model` is `table` with `points` of `[metered, corrected]` seconds, `schwarzschild` with `p`, or `none`; optional `limit`, the longest metered time the data covers, in seconds), `citation`, optional `author`.
+- `kits`: `id`, `name`, `fastest` and `slowest` in seconds (0.001 is 1/1000), `bulb`, optional `widest` and `smallest` f-numbers, optional `shutterSteps` (`full`, `half` or `third`, full when left out), optional `mount` named as Lensfun names it (`Canon FD`, `Nikon F`, `Olympus OM`, `Pentax K`, `Leica M`) so lens search shows lenses that fit, `citation`, optional `author`.
 
 Questions: hello@anjafio.com

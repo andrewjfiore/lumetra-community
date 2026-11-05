@@ -37,6 +37,8 @@ def kit(k, where):
     w, s = k.get("widest"), k.get("smallest")
     if (w is None) != (s is None) or (w is not None and not 0.7 <= w < s <= 256):
         problems.append(f"{name}: give both widest and smallest, widest the smaller f-number")
+    if "shutterSteps" in k and k["shutterSteps"] not in ("full", "half", "third"):
+        problems.append(f"{name}: shutterSteps must be full, half or third")
     if "mount" in k and not (isinstance(k["mount"], str) and k["mount"].strip()):
         problems.append(f"{name}: mount must be a name such as Canon FD")
     cited(k, name)
