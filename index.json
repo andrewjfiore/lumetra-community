@@ -1,0 +1,6 @@
+{
+  "lumetra": 1,
+  "packs": [
+    { "file": "packs/classic-slr-shutters.json", "name": "Classic SLR shutters", "description": "Shutter ranges for common manual film SLRs." }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "lumetra": 1,
+  "kits": [
+    { "id": "canon-a1", "name": "Canon A-1", "fastest": 0.001, "slowest": 30, "bulb": true,
+      "citation": { "title": "Wikipedia, Canon A-1: 30 s to 1/1000 plus bulb", "url": "https://en.wikipedia.org/wiki/Canon_A-1" } },
+    { "id": "canon-ae1", "name": "Canon AE-1", "fastest": 0.001, "slowest": 2, "bulb": true,
+      "citation": { "title": "Wikipedia, Canon AE-1: 2 s to 1/1000 plus bulb", "url": "https://en.wikipedia.org/wiki/Canon_AE-1" } },
+    { "id": "nikon-fm", "name": "Nikon FM", "fastest": 0.001, "slowest": 1, "bulb": true,
+      "citation": { "title": "Wikipedia, Nikon FM: 1 s to 1/1000 plus bulb", "url": "https://en.wikipedia.org/wiki/Nikon_FM" } },
+    { "id": "olympus-om1", "name": "Olympus OM-1", "fastest": 0.001, "slowest": 1, "bulb": true,
+      "citation": { "title": "Wikipedia, Olympus OM-1: 1 s to 1/1000 plus bulb", "url": "https://en.wikipedia.org/wiki/Olympus_OM-1" } }
+  ]
+}
